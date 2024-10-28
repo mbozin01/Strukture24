@@ -1,0 +1,3 @@
+﻿  drugi.c
+C:\Users\mirta\OneDrive\Radna površina\Strukture24\drugi\drugi.c(76,16): warning C4013: 'loadFromFile' undefined; assuming extern returning int
+  drugi.vcxproj -> C:\Users\mirta\OneDrive\Radna površina\Strukture24\drugi\Debug\drugi.exe
