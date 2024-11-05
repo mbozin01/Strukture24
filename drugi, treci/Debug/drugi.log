@@ -1,0 +1,10 @@
+﻿  drugi.c
+C:\Users\mirta\OneDrive\Radna površina\Strukture24\drugi\drugi.c(233,131): warning C4047: 'function': 'const char *' differs in levels of indirection from 'int'
+C:\Users\mirta\OneDrive\Radna površina\Strukture24\drugi\drugi.c(233,120): warning C4024: 'strcmp': different types for formal and actual parameter 1
+C:\Users\mirta\OneDrive\Radna površina\Strukture24\drugi\drugi.c(233,154): warning C4047: 'function': 'const char *' differs in levels of indirection from 'int'
+C:\Users\mirta\OneDrive\Radna površina\Strukture24\drugi\drugi.c(233,144): warning C4024: 'strcmp': different types for formal and actual parameter 2
+C:\Users\mirta\OneDrive\Radna površina\Strukture24\drugi\drugi.c(265,151): warning C4047: 'function': 'const char *' differs in levels of indirection from 'int'
+C:\Users\mirta\OneDrive\Radna površina\Strukture24\drugi\drugi.c(265,140): warning C4024: 'strcmp': different types for formal and actual parameter 1
+C:\Users\mirta\OneDrive\Radna površina\Strukture24\drugi\drugi.c(265,175): warning C4047: 'function': 'const char *' differs in levels of indirection from 'int'
+C:\Users\mirta\OneDrive\Radna površina\Strukture24\drugi\drugi.c(265,165): warning C4024: 'strcmp': different types for formal and actual parameter 2
+  drugi.vcxproj -> C:\Users\mirta\OneDrive\Radna površina\Strukture24\drugi\Debug\drugi.exe
